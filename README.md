@@ -1,7 +1,7 @@
 # Accenture-Data-Analytics-and-Visualization-Virtual-Internship
 # Task - 1
 
-# **Project Understanding:**
+**Project Understanding:**
 **A data analyst sits between the business and the data.**
 
 One of Accenture’s Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
@@ -9,11 +9,11 @@ She has reviewed the brief provided by Social Buzz and has assembled a diverse t
 Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning.
 About Client : Social Buzz
 
-# Task for Accenture :
+**Task for Accenture :**
 Client's Problem that Accenture is tasked to address : The client has reached a massive scale within recent years and does not have the resources internally to handle it.
 Three requirements that Accenture is tasked to fulfill : Audit of big data practice, recommendations for IPO, analysis of popular content
 
-# Accenture Project Team :
+**Accenture Project Team :**
 
 
 **Task for Data Analyst :**
@@ -41,7 +41,7 @@ Reaction Types
 Reactions
 Content
 
-# Data Modelling:
+**Data Modelling:**
 Create a final data set by merging 3 tables
 
 **End result will be one spreadsheet**
@@ -49,7 +49,7 @@ Create a final data set by merging 3 tables
 A cleaned dataset
 Top 5 categories
 
-# Cleaned Data set:
+**Cleaned Data set:**
 So, the cleaned data set after data modelling & data cleaning : Cleaned Dataset
 
 # Task - 3
@@ -57,7 +57,6 @@ Data Visualization and Storytelling:
 **Make the Powerpoint presentation as per the given template**
 
 **Charts Involved :**
-
 Pie Chart
 Bar Chart
 Powerpoint Presentation : PPT
