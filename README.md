@@ -57,8 +57,8 @@ Data Visualization and Storytelling:
 **Make the Powerpoint presentation as per the given template**
 
 **Charts Involved :**
-Pie Chart
-Bar Chart
+* Pie Chart
+*Bar Chart
 Powerpoint Presentation : PPT
 
 # Task - 4
